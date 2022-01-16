@@ -6,19 +6,15 @@
 Typescript  • Javascript 
 
 **Libraries / Frameworks:** 
-
 React • Redux • Angular • Bootstrap • Material UI •Jquery 
 
 **Tools:**
-
 Jest • Cypress • Webpack • NPM • Yarn • Git • Postman  • Figma
 
 **Backend / Middleware:**
-
 Mongo • MySQL • Node  • Express  • Apollo  • Prisma 
 
 **Other:**
-
 TDD  • Agile  • Scrum master
 
 <!--
