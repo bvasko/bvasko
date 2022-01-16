@@ -18,6 +18,7 @@ Mongo • MySQL • Node  • Express  • Apollo  • Prisma
 TDD  • Agile  • Scrum master
 
 
+## Contact Me
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bvasko/)
 
 <!--
