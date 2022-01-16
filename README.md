@@ -5,17 +5,20 @@
 #### Here are some things I'm good at
 Typescript  • Javascript 
 
-**Libraries / Frameworks:** 
+📕 **Libraries / Frameworks:** 
 React • Redux • Angular • Bootstrap • Material UI •Jquery 
 
-**Tools:**
+🔧 **Tools:**
 Jest • Cypress • Webpack • NPM • Yarn • Git • Postman  • Figma
 
-**Backend / Middleware:**
+⚙️ **Backend / Middleware:**
 Mongo • MySQL • Node  • Express  • Apollo  • Prisma 
 
-**Other:**
+⏱ **Other:**
 TDD  • Agile  • Scrum master
+
+
+ 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bvasko/)
 
 <!--
 **bvasko/bvasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +30,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
