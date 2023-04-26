@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-### I'm an experienced fullstack developer with a passion for fun, usable interfaces 
-
-#### Here are some things I'm good at
-Typescript  • Javascript 
+### I'm a senior front-end developer with a passion for usability and performance
 
 📕 **Libraries / Frameworks:** 
-React • Redux • Angular • Bootstrap • Material UI •Jquery 
+React • Redux • Angular
 
 🔧 **Tools:**
 Jest • Cypress • Webpack • NPM • Yarn • Git • Postman  • Figma
@@ -15,7 +12,7 @@ Jest • Cypress • Webpack • NPM • Yarn • Git • Postman  • Figma
 Mongo • MySQL • Node  • Express  • Apollo  • Prisma 
 
 ⏱ **Other:**
-TDD  • Agile  • Scrum master
+TDD  • Agile  • Certified scrum master
 
 
 ## Contact Me
