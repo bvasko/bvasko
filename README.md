@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a senior front-end developer with a passion for usability and performance
+### I'm a senior front-end developer with a passion for usability, performance and javascript memes
 
 📕 **Libraries / Frameworks:** 
 React • Redux • Angular
