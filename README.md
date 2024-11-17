@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-### I'm a senior front-end developer with a passion for usability, performance and javascript memes
+### I'm a senior front-end developer with a passion for usability and performance
 
 📕 **Libraries / Frameworks:** 
-React • Redux • Angular
+React • Redux • Angular • Next.js
 
 🔧 **Tools:**
-Jest • Cypress • Webpack • NPM • Yarn • Git • Postman  • Figma
+Jest • Cypress • Webpack • NPM • Yarn • Git • Postman  • Figma • Selenium
 
 ⚙️ **Backend / Middleware:**
 Mongo • MySQL • Node  • Express  • Apollo  • Prisma 
